@@ -3,6 +3,10 @@
 - I'm a newbie Android-dev
 - Currenty working @[Novomet](https://www.novometgroup.com/)
 
+## My contacts
+- Gmail: podlesnihwork@gmail.com
+- Telegram: [@ivan_podlesnyh](https://t.me/ivan_podlesnyh)
+
 <!--
 **IvanPodlesnykh/IvanPodlesnykh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
