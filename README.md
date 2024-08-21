@@ -1,4 +1,5 @@
-# Newbie Android-dev
+# Howdy 🤠
+## I'm a newbie Android-dev
 Currenty working @[Novomet](https://www.novometgroup.com/)
 
 <!--
