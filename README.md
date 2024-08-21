@@ -1,4 +1,5 @@
-## Hi there 👋
+## Newbie Android-dev
+## Currenty working @[Novomet](https://www.novometgroup.com/)
 
 <!--
 **IvanPodlesnykh/IvanPodlesnykh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
