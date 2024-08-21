@@ -1,6 +1,14 @@
 # Howdy 🤠
-## I'm a newbie Android-dev
-Currenty working @[Novomet](https://www.novometgroup.com/)
+<p align="center">
+  <samp>
+    I'm a newbie Android-dev
+  </samp>
+  <br/>
+  <br/>
+  <samp>
+    Currenty working @[Novomet](https://www.novometgroup.com/)
+  </samp>
+</p>
 
 <!--
 **IvanPodlesnykh/IvanPodlesnykh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
