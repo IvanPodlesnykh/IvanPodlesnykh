@@ -1,4 +1,4 @@
-## Newbie Android-dev
+# Newbie Android-dev
 ## Currenty working @[Novomet](https://www.novometgroup.com/)
 
 <!--
